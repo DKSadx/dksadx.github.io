@@ -1,7 +1,7 @@
 1:HL["/_next/static/media/162bf645eb375add-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
 2:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 3:HL["/_next/static/css/527eccb2ae7f9123.css","style",{"crossOrigin":""}]
-0:["wsBHkcXuHalunZ8F205DK",[[["",{"children":["projects",{"children":[["slug","kafka-connect-snowflake-connector-offset-mismatch","d"],{"children":["__PAGE__?{\"slug\":\"kafka-connect-snowflake-connector-offset-mismatch\"}",{}]}]}]},"$undefined","$undefined",true],"$L4",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/527eccb2ae7f9123.css","precedence":"next","crossOrigin":""}]],"$L5"]]]]
+0:["Izm26Z17PmMxaPqmg76EC",[[["",{"children":["projects",{"children":[["slug","kafka-connect-snowflake-connector-offset-mismatch","d"],{"children":["__PAGE__?{\"slug\":\"kafka-connect-snowflake-connector-offset-mismatch\"}",{}]}]}]},"$undefined","$undefined",true],"$L4",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/527eccb2ae7f9123.css","precedence":"next","crossOrigin":""}]],"$L5"]]]]
 6:HL["/_next/static/css/ccb12de4c58e29a3.css","style",{"crossOrigin":""}]
 7:I[3192,["185","static/chunks/app/layout-6ee12828b54e1fdd.js"],"Analytics"]
 8:I[6954,[],""]
